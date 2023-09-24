@@ -1,0 +1,18 @@
+﻿  Camera.cpp
+  Debug.cpp
+  Hash.cpp
+  OpenGLRenderer.cpp
+  Qmath.cpp
+  SceneManager.cpp
+  Main.cpp
+  MMath.cpp
+  Scene0.cpp
+C:\Users\zacam\Desktop\Assignment5\Assignment5\ComponentFramework22.2.1 Vulkan\ComponentFramework\Scene0.cpp(40,49): warning C4305: 'argument': truncation from 'double' to 'float'
+  Timer.cpp
+  VMath.cpp
+  VulkanRenderer.cpp
+C:\Users\zacam\Desktop\Assignment5\Assignment5\ComponentFramework22.2.1 Vulkan\ComponentFramework\tiny_obj_loader.h(1665,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zacam\Desktop\Assignment5\Assignment5\ComponentFramework22.2.1 Vulkan\ComponentFramework\VulkanRenderer.cpp(230,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zacam\Desktop\Assignment5\Assignment5\ComponentFramework22.2.1 Vulkan\ComponentFramework\VulkanRenderer.cpp(236,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ComponentFramework.vcxproj -> C:\Users\zacam\Desktop\Assignment5\Assignment5\ComponentFramework22.2.1 Vulkan\Debug\ComponentFramework.exe
